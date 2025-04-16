@@ -1,0 +1,22 @@
+C:\Users\smile\source\repos\3LabInd\bin\Debug\3LabInd.exe.config
+C:\Users\smile\source\repos\3LabInd\bin\Debug\3LabInd.exe
+C:\Users\smile\source\repos\3LabInd\bin\Debug\3LabInd.pdb
+C:\Users\smile\source\repos\3LabInd\obj\Debug\3LabInd.csproj.AssemblyReference.cache
+C:\Users\smile\source\repos\3LabInd\obj\Debug\_3LabInd.Form1.resources
+C:\Users\smile\source\repos\3LabInd\obj\Debug\_3LabInd.Properties.Resources.resources
+C:\Users\smile\source\repos\3LabInd\obj\Debug\3LabInd.csproj.GenerateResource.cache
+C:\Users\smile\source\repos\3LabInd\obj\Debug\3LabInd.csproj.CoreCompileInputs.cache
+C:\Users\smile\source\repos\3LabInd\obj\Debug\3LabInd.exe
+C:\Users\smile\source\repos\3LabInd\obj\Debug\3LabInd.pdb
+C:\Users\smile\source\repos\3LabInd\obj\Debug\_3LabInd.Form2.resources
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\bin\Debug\3LabInd.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\bin\Debug\3LabInd.exe
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\bin\Debug\3LabInd.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\obj\Debug\3LabInd.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\obj\Debug\_3LabInd.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\obj\Debug\_3LabInd.Form2.resources
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\obj\Debug\_3LabInd.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\obj\Debug\3LabInd.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\obj\Debug\3LabInd.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\obj\Debug\3LabInd.exe
+C:\Users\USER\OneDrive\Рабочий стол\Новая папка\3LabInd\obj\Debug\3LabInd.pdb
